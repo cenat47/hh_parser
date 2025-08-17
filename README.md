@@ -24,7 +24,7 @@
 ## 📦 Установка
 
 ```bash
-git clone <ваш-репозиторий>
+git clone https://github.com/cenat47/hh_parser.git
 cd <ваша-папка-проекта>
 python3 -m venv venv
 source venv/bin/activate
