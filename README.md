@@ -27,7 +27,7 @@
 git clone https://github.com/cenat47/hh_parser.git
 cd <ваша-папка-проекта>
 python3 -m venv venv
-source venv/bin/activate
+source hhpars/bin/activate или hhpars\Scripts\activate
 pip install -r requirements.txt
 ```
 ---
